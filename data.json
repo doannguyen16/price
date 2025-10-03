@@ -1,10 +1,22 @@
 {
-  "BTCUSDT": 100000,
-  "OPUSDT": 5,
-  "UNIUSDT": 40,
-  "ARBUSDT": 5,
-  "ADAUSDT": 3,
-  "AVAXUSDT": 500,
-  "LINKUSDT": 100,
-  "ETHUSDT": 4000
+    "price": {
+        "BTCUSDT": 100000,
+        "OPUSDT": 5,
+        "UNIUSDT": 40,
+        "ARBUSDT": 5,
+        "ADAUSDT": 3,
+        "AVAXUSDT": 500,
+        "LINKUSDT": 100,
+        "ETHUSDT": 4000
+    },
+    "snap_shot": {
+        "BTCUSDT": 100000,
+        "OPUSDT": 5,
+        "UNIUSDT": 40,
+        "ARBUSDT": 5,
+        "ADAUSDT": 3,
+        "AVAXUSDT": 500,
+        "LINKUSDT": 100,
+        "ETHUSDT": 4000
+    }
 }
