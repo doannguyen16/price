@@ -7,7 +7,8 @@
         "ADAUSDT": 3,
         "AVAXUSDT": 500,
         "LINKUSDT": 100,
-        "ETHUSDT": 4000
+        "ETHUSDT": 4000,
+        "STRKUSDT" : 0.21
     },
     "snap_shot": {
         "OPUSDT": 0.73,
