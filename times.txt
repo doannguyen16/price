@@ -1,206 +1,1155 @@
 0:04
-0:08
-0:12
-0:15
+Bilawal Sidhu: Eric Schmidt, thank you for joining us.
+0:07
+Let's go back. (quay lại quá khứ)
+0:09
+You said the arrival of non-human intelligence is a very big deal. (một điều rất quan trọng.)
+0:14
+And this photo, taken in 2016,
+0:16
+feels like one of those quiet moments (khoảnh khắc yên lặng) where the Earth shifted beneath us,
 0:20
+but not everyone noticed. (không phải ai cũng nhận ra.)
+0:22
+What did you see back then that the rest of us might have missed? (có thể đã bỏ lỡ)
 0:25
-0:29
-0:32
+Eric Schmidt: In 2016, we didn't understand
+0:28
+what was now going to happen, (điều gì sẽ xảy ra)
+0:30
+but we understood that these algorithms were new and powerful.
+0:34
+What happened in this particular set of games (trong những trận này)
 0:36
-0:39
-0:43
-0:45
+was in roughly the second game, (vào khoảng ván thứ hai)
+0:38
+there was a new move invented by AI
+0:41
+in a game that had been around for 2,500 years  (đã tồn tại hơn 2.500 năm)
+0:44
+that no one had ever seen. (mà chưa ai từng nghĩ đến trước đó.)
 0:47
+Technically (Về mặt kỹ thuật), the way, this occurred
+0:48
+was that the system of AlphaGo was essentially (essentially) organized
 0:52
-0:54
-0:58
-1:00
+to always maintain a greater than 50 percent chance of winning. (cơ hội chiến thắng)
+0:56
+And so, it calculated correctly this move,
+0:59
+which was this great mystery (bí ẩn lớn) among all of the Go players
+1:01
+who are obviously insanely brilliant (vốn là cực kỳ thông minh),
 1:04
+mathematical and intuitive /in-tu-ə-tiv - trực cảm, trực giác/ players.
 1:07
-1:09
+The question that Henry, Craig Mundie and I started to discuss, right,
 1:13
-1:16
+is what does this mean?
 1:18
+How is it that our computers could come up with something
+1:20
+that humans had never thought about (con người chưa từng nghĩ tới)?
 1:22
+I mean, this is a game played by billions of people.
 1:25
-1:28
-1:30
-1:32
-1:36
-1:40
-1:42
-1:47
+And that began (Và đó là khởi đầu) the process that led to two books.
+1:29
+And I think, frankly (thành thật mà nói),
+1:31
+is the point (đây là thời điểm) at which the revolution really started.
+1:35
+BS: If you fast forward ( Nếu nhìn đến ngày hôm nay) to today,
+1:37
+it seems that all anyone can talk about is AI,
+1:41
+especially here, at TED.
+1:43
+But you've taken a contrarian stance. (bạn đã có lập trường trái ngược)
+1:46
+You actually think AI is underhyped.(bị đánh giá thấp)
+1:48
+Why is that?
+1:49
+ES: And I'll tell you why.
 1:51
-1:55
-1:58
+Most of you think of AI as,
+1:52
+I'll just use the general term (thuật ngữ chung ), as ChatGPT.
+1:54
+For most of you, ChatGPT was the moment where you said,
+1:57
+"Oh my God,
+1:59
+this thing writes, and it makes mistakes (cũng mắc lỗi),
+----------------------------------------------------------------
+2:01
+but it's so brilliantly verbal. ( thật sự cực kỳ ngôn ngữ)"
+2:03
+That was certainly my reaction.
 2:05
-2:11
-2:14
-2:18
-2:22
-2:26
-2:29
-2:33
-2:35
+Most people that I knew did that.
+2:07
+BS: It was visceral (Nó rất trực giác), yeah.
+2:08
+ES: This was two years ago.
+2:10
+Since then (kể từ sau đó), the gains (sự đạt được) in what is called reinforcement (sự tăng cường) learning,
+2:13
+which is what AlphaGo helped invent and so forth (Vân vân),
+2:16
+allow us to do planning.
+2:19
+And a good example is look at OpenAI o3
+2:23
+or DeepSeek R1,
+2:25
+and you can see how it goes forward and back,
+2:28
+forward and back, forward and back. (tiến lên, rồi lùi lại, tiến lên, rồi lại lùi)
+2:30
+It's extraordinary.
+2:32
+In my case, I bought a rocket company
+2:34
+because it was like, interesting.
+2:36
+BS: (Laughs) As one does. (như nguời ta vẫn làm thôi mà)
 2:38
-2:41
+ES: As one does.
+2:39
+And it’s an area that I’m not an expert in,
+2:42
+and I want to be an expert.
+2:43
+So I'm using deep research.
 2:45
-2:50
-2:54
-3:00
-3:04
+And these systems are spending 15 minutes writing these deep papers.
+2:49
+That's true for most of them. (Đa số các hệ thống đều như vậy.)
+2:51
+Do you have any idea how much computation
+2:53
+15 minutes of these supercomputers is?
+2:56
+It's extraordinary.
+2:57
+So you’re seeing the arrival,
+2:59
+the shift from language to language.
+3:01
+then you had language to sequence, (ngôn ngữ sang trình tự)
+3:03
+which is how biology is done.
+3:05
+Now you're doing essentially planning and strategy.
+3:09
+The eventual state of this (trạng thái cuối cùng của việc này là)
 3:11
-3:16
-3:18
-3:21
+is the computers running all business processes, right?
+3:14
+So you have an agent to do this, an agent to do this,
+3:17
+an agent to do this.
+3:19
+And you con-ca-te-nate (nối vào nhau) them together,
+3:20
+and they speak language among each other.
 3:23
-3:27
-3:30
+They typically speak English language.
+3:26
+BS: I mean, speaking of just the sheer (hoàn toàn) compute requirements of these systems,
+3:3
+let's talk about scale briefly. (một chút)
 3:33
-3:35
-3:39
-3:42
-3:45
-3:48
+You know, I kind of think (thấy và cho rằng) of these AI systems as Hungry Hungry Hippos.
+3:36
+They seemingly soak up (Hấp thụ, tiếp thu) all the data and compute that we throw at them.
+3:40
+They've already digested all the tokens on the public internet,
+3:43
+and it seems we can't build data centers fast enough. (kịp nhanh như vậy)
+3:47
+What do you think the real limits are,
+3:49
+and how do we get ahead of them (vượt qua giới hạn đó)
 3:51
-3:55
+before they start throttling (giảm lưu lượng) AI progress?
+3:54
+ES: So there's a real limit in energy.
+3:56
+Give you an example.
+3:57
+There's one calculation,
+3:58
+and I testified (trịnh trọng trình bày)  on this this week in Congress,
 4:01
-4:03
+that we need another 90 gigawatts of power in America.
+4:06
+My answer, by the way, is, think Canada, right?
 4:10
-4:14
-4:19
-4:23
+Nice people, full of hydroelectric power.
+4:12
+But that's apparently not the political mood (tâm trạng chính trị) right now.
+4:16
+Sorry.
+4:17
+So 90 gigawatts is 90 nuclear power plants in America.
+4:22
+Not happening.
+4:24
+We're building zero, right?
 4:25
-4:32
+How are we going to get all that power?
+4:27
+This is a major, major national issue.
+4:30
+You can use the Arab world,
+4:31
+which is busy building five to 10 gigawatts of data centers.
+4:35
+India is considering a 10-gigawatt data center.
 4:38
-4:43
-4:47
-4:50
-4:54
+To understand how big gigawatts are,
+4:41
+is think cities per data center.
+4:44
+That's how much power these things need.
+4:46
+And the people look at it and they say,
+4:48
+“Well, there’s lots of algorithmic improvements,
+4:51
+and you will need less power."
+4:53
+There's an old rule, I'm old enough to remember, right?
+4:57
+Grove giveth, Gates taketh away.
 5:00
-5:05
+OK, the hardware just gets faster and faster.
+5:03
+The physicists are amazing.
+5:06
+Just incredible (Thật khó tin) what they've been able to do.
 5:08
+And us software people, we just use it and use it and use it.
 5:12
+And when you look at planning, at least in today's algorithms,
+5:15
+it's back and forth (thử tới thử lui) and try this and that
 5:18
+and just watch it yourself.
 5:20
-5:23
+There are estimates (Theo các ước tính), and you know this from Andreessen Horowitz reports,
+5:24
+it's been well studied (nghiên cứu kỹ),
 5:26
+that there's an increase in at least a factor of 100 (ít nhất 100 lần),
+5:29
+maybe a factor of 1,000, (ít nhất 100 lần),
 5:30
-5:33
-5:37
+in computation required just to do the kind of planning. (kiểu kế hoạch như vậy)
+5:34
+The technology goes from essentially deep learning to reinforcement learning
+5:38
+to something called test-time compute, (tính toán lúc thử nghiệm)
+5:40
+where not only are you doing planning,
 5:42
-5:44
-5:47
+but you're also learning while you're doing planning.
+5:45
+That is the, if you will,
+5:46
+the zenith ( tột đỉnh) or what have you (và những cái tương tự), of computation needs.
+5:50
+That's problem number one, electricity and hardware.
 5:53
-5:56
+Problem number two is we ran out of data
+5:57
+so we have to start generating it.
 5:59
-6:05
-6:06
+But we can easily do that because that's one of the functions.
+6:01
+And then the third question that I don't understand
+6:04
+is what's the limit of knowledge?
+6:07
+I'll give you an example.
+6:08
+Let's imagine we are collectively all of the computers in the world,
 6:11
-6:15
+and we're all thinking
+6:13
+and we're all thinking based on knowledge that exists that was previously invented.
+6:17
+How do we invent something completely new?
 6:21
-6:25
-6:27
-6:31
+So, Einstein.
+6:23
+So when you study the way scientific discovery works,
+6:26
+biology, math, so forth and so on (vân vân và mây mây),
+6:28
+what typically happens is a truly brilliant human being
+6:32
+looks at one area and says,
 6:35
+"I see a pattern
 6:37
-6:39
+that's in a completely different area,
+6:38
+has nothing to do with ( không liên quan gì ) the first one.
+6:40
+It's the same pattern."
 6:42
+And they take the tools from one and they apply it to another.
 6:45
-6:50
-6:52
-6:57
+Today, our systems cannot do that.
+6:48
+If we can get through (Vượt qua (khó khăn) that, I'm working on this,
+6:51
+a general technical term for this is non-stationarity of objectives. (mục tiêu không cố định)
+6:56
+The rules keep changing.
+6:58
+We will see if (sẽ xem liệu có) we can solve that problem.
 7:00
-7:04
+If we can solve that, we're going to need even more data centers.
+7:03
+And we'll also be able to invent completely new schools of scientific (trường phái tư tưởng khoa học )
+7:08
+and intellectual ([thuộc] trí tuệ) thought.
 7:10
-7:14
+which will be incredible.
+7:11
+BS: So as we push towards (tiến gần) a zenith /'zen-niθ/,
+7:13
+autonomy has been a big topic of discussion. (được bàn luận rất nhiều)
 7:16
-7:20
-7:22
+Yoshua Bengio gave a compelling talk earlier this week,
+7:19
+advocating (Đề xuất mạnh mẽ) that AI labs should halt (làm cho dừng lại) the development of agentic AI systems
 7:23
-7:28
-7:34
+that are capable of taking autonomous action.
+7:25
+Yet that (Nhưng điều đó) is precisely what the next frontier (biên giới tiếp theo) is for all these AI labs,
+7:30
+and seemingly for yourself (có vẻ như cả cá nhân), too.
+7:32
+What is the right decision here?
+7:33
+ES: So Yoshua is a brilliant inventor of much of what (của phần lớn những gì) we're talking about
 7:38
+and a good personal friend.
+7:39
+And we’ve talked about this, and his concerns are very legitimate. (chính đáng)
 7:43
+The question is not are his concerns right,
 7:45
+but what are the solutions?
 7:47
+So let's think about agents.
 7:49
-7:52
+So for purposes of argument (Để thuận tiện cho cuộc tranh luận), everyone in the audience is an agent.
 7:53
+You have an input that's English or whatever language.
+7:56
+And you have an output that’s English, and you have memory,
 7:59
-8:03
-8:05
+which is true of all humans. (điều đó đúng với tất cả con người)
+8:01
+Now we're all busy working,
+8:02
+and all of a sudden, one of you decides
+8:06
+it's much more efficient not to use human language,
 8:09
+but we'll invent our own computer language.
+8:11
+Now you and I are sitting here, watching all of this,
 8:14
-8:17
+and we're saying, like, what do we do now?
+8:16
+The correct answer is unplug you, right?
 8:19
-8:23
-8:26
+Because we're not going to know,
+8:22
+we're just not going to know what you're up to.
+8:25
+And you might actually be doing something really bad or really amazing.
+8:28
+We want to be able to watch.
 8:30
+So we need provenance, something you and I have talked about,
 8:33
-8:37
-8:38
+but we also need to be able to observe it.
+8:35
+To me, that's a core requirement.
+8:39
+There's a set of criteria that the industry believes are points
 8:42
-8:46
-8:50
-8:54
-8:56
-8:58
-9:02
+where you want to, metaphorically, unplug it.
+8:44
+One is where you get recursive self-improvement,
+8:47
+which you can't control.
+8:48
+Recursive self-improvement is where the computer is off learning,
+8:51
+and you don't know what it's learning.
+8:53
+That can obviously lead to bad outcomes.
+8:55
+Another one would be direct access to weapons.
+8:57
+Another one would be that the computer systems decide to exfiltrate themselves,
+9:01
+to reproduce themselves without our permission.
 9:04
-9:07
-9:09
+So there's a set of such things.
+9:06
+The problem with Yoshua's speech, with respect to such a brilliant person,
+9:11
+is stopping things in a globally competitive market
 9:15
-9:19
-9:22
-9:27
+doesn't really work.
+9:17
+Instead of stopping agentic work,
+9:20
+we need to find a way to establish the guardrails,
+9:23
+which I know you agree with because we’ve talked about it.
+9:26
+(Applause)
+9:30
+BS: I think that brings us nicely to the dilemmas.
 9:32
-9:37
+And let's just say there are a lot of them when it comes to this technology.
+9:36
+The first one I'd love to start with, Eric,
+9:38
+is the exceedingly dual-use nature of this tech, right?
 9:40
-9:46
+It's applicable to both civilian and military applications.
+9:44
+So how do you broadly think about the dilemmas
+9:47
+and ethical quandaries
 9:48
-9:51
-9:56
+that come with this tech and how humans deploy them?
+9:53
+ES: In many cases, we already have doctrines
+9:55
+about personal responsibility.
+9:57
+A simple example, I did a lot of military work
 9:59
-10:03
-10:06
+and continue to do so.
+10:01
+The US military has a rule called 3000.09,
+10:05
+generally known as "human in the loop" or "meaningful human control."
 10:09
+You don't want systems that are not under our control.
 10:13
-10:18
+It's a line we can't cross.
+10:15
+I think that's correct.
+10:17
+I think that the competition between the West,
+10:20
+and particularly the United States,
 10:22
-10:25
-10:28
-10:31
-10:35
-10:39
+and China,
+10:23
+is going to be defining in this area.
+10:26
+And I'll give you some examples.
+10:27
+First, the current government has now put in
+10:30
+essentially reciprocating 145-percent tariffs.
+10:34
+That has huge implications for the supply chain.
+10:37
+We in our industry depend on packaging
 10:41
-10:45
-10:47
-10:51
+and components from China that are boring, if you will,
+10:44
+but incredibly important.
+10:46
+The little packaging and the little glue things and so forth
+10:48
+that are part of the computers.
+10:50
+If China were to deny access to them, that would be a big deal.
 10:54
-10:57
+We are trying to deny them access to the most advanced chips,
+10:58
+which they are super annoyed about.
 11:00
-11:01
-11:04
-11:09
+Dr. Kissinger asked Craig and I
+11:03
+to do Track II dialogues with the Chinese,
+11:06
+and we’re in conversations with them.
+11:08
+What's the number one issue they raise?
+11:10
+This issue.
 11:11
+Indeed, if you look at DeepSeek, which is really impressive,
+11:14
+they managed to find algorithms that got around the problems
 11:17
+by making them more efficient.
+11:19
+Because China is doing everything open source, open weights,
+11:22
+we immediately got the benefit of their invention
 11:24
-11:29
-11:32
-11:36
+and have adopted into US things.
+11:26
+So we're in a situation now which I think is quite tenuous,
+11:30
+where the US is largely driving, for many, many good reasons,
+11:34
+largely closed models, largely under very good control.
 11:37
-11:43
-11:47
-11:49
-11:52
-11:57
+China is likely to be the leader in open source unless something changes.
+11:41
+And open source leads to very rapid proliferation around the world.
+11:45
+This proliferation is dangerous at the cyber level and the bio level.
+11:50
+But let me give you why it's also dangerous in a more significant way,
+11:54
+in a nuclear-threat way.
+11:56
+Dr. Kissinger, who we all worked with very closely,
+11:58
+was one of the architects of mutually assured destruction,
 12:01
-12:05
+deterrence and so forth.
+12:02
+And what's happening now is you've got a situation
+12:06
+where -- I'll use an example.
+12:07
+It's easier if I explain.
+12:09
+You’re the good guy, and I’m the bad guy, OK?
 12:11
-12:15
-12:18
-12:21
+You're six months ahead of me,
+12:13
+and we're both on the same path for superintelligence.
+12:17
+And you're going to get there, right?
+12:19
+And I'm sure you're going to get there, you're that close.
 12:23
+And I'm six months behind.
 12:25
+Pretty good, right?
 12:26
+Sounds pretty good.
+12:29
+No.
+12:30
+These are network-effect businesses.
+12:32
+And in network-effect businesses,
+12:34
+it is the slope of your improvement that determines everything.
+12:38
+So I'll use OpenAI or Gemini,
+12:40
+they have 1,000 programmers.
+12:42
+They're in the process of creating a million AI software programmers.
+12:46
+What does that do?
+12:47
+First, you don't have to feed them except electricity.
+12:50
+So that's good.
+12:51
+And they don't quit and things like that.
+12:53
+Second, the slope is like this.
+12:56
+Well, as we get closer to superintelligence,
+12:58
+the slope goes like this.
+13:00
+If you get there first, you dastardly person --
+13:04
+BS: You're never going to be able to catch me.
+13:06
+ES: I will not be able to catch you.
+13:08
+And I've given you the tools
+13:09
+to reinvent the world and in particular, destroy me.
+13:12
+That's how my brain, Mr. Evil, is going to think.
+13:15
+So what am I going to do?
+13:18
+The first thing I'm going to do is try to steal all your code.
+13:21
+And you've prevented that because you're good.
+13:23
+And you were good.
+13:24
+So you’re still good, at Google.
+13:26
+Second, then I'm going to infiltrate you with humans.
+13:29
+Well, you've got good protections against that.
+13:31
+You know, we don't have spies.
+13:33
+So what do I do?
+13:35
+I’m going to go in, and I’m going to change your model.
+13:38
+I'm going to modify it.
+13:39
+I'm going to actually screw you up
+13:41
+to get me so I'm one day ahead of you.
+13:43
+And you're so good, I can't do that.
+13:45
+What's my next choice?
+13:47
+Bomb your data center.
+13:50
+Now do you think I’m insane?
+13:53
+These conversations are occurring
+13:55
+around nuclear opponents today in our world.
+14:00
+There are legitimate people saying
+14:02
+the only solution to this problem is preemption.
+14:05
+Now I just told you that you, Mr. Good,
+14:08
+are about to have the keys to control the entire world,
+14:13
+both in terms of economic dominance,
+14:15
+innovation, surveillance,
+14:16
+whatever it is that you care about.
+14:18
+I have to prevent that.
+14:20
+We don't have any language in our society,
+14:24
+the foreign policy people have not thought about this,
+14:27
+and this is coming.
+14:28
+When is it coming?
+14:29
+Probably five years.
+14:31
+We have time.
+14:32
+We have time for this conversation.
+14:34
+And this is really important.
+14:36
+BS: Let me push on this a little bit.
+14:37
+So if this is true
+14:39
+and we can end up in this sort of standoff scenario
+14:41
+and the equivalent of mutually-assured destruction,
+14:43
+you've also said that the US should embrace open-source AI
+14:47
+even after China's DeepSeek showed what's possible
+14:49
+with a fraction of the compute.
+14:51
+But doesn't open-sourcing these models,
+14:53
+just hand capabilities to adversaries that will accelerate their own timelines?
+14:57
+ES: This is one of the wickedest, or, we call them wicked hard problems.
+15:02
+Our industry, our science,
+15:04
+everything about the world that we have built
+15:06
+is based on academic research, open source, so forth.
+15:10
+Much of Google's technology was based on open source.
+15:12
+Some of Google's technology is open-source,
+15:14
+some of it is proprietary, perfectly legitimate.
+15:18
+What happens when there's an open-source model
+15:21
+that is really dangerous,
+15:23
+and it gets into the hands of the Osama bin Ladens of the world,
+15:26
+and we know there are more than one, unfortunately.
+15:30
+We don't know.
+15:31
+The consensus in the industry right now
+15:33
+is the open-source models are not quite at the point
+15:38
+of national or global danger.
+15:41
+But you can see a pattern where they might get there.
+15:44
+So a lot will now depend upon the key decisions made in the US and China
+15:48
+and in the companies in both places.
+15:51
+The reason I focus on US and China
+15:53
+is they're the only two countries where people are crazy enough
+15:56
+to spend the billions and billions of dollars
+15:59
+that are required to build this new vision.
+16:01
+Europe, which would love to do it,
+16:03
+doesn't have the capital structure to do it.
+16:05
+Most of the other countries, not even India,
+16:07
+has the capital structure to do it, although they wish to.
+16:10
+Arabs don't have the capital structure to do it,
+16:12
+although they're working on it.
+16:14
+So this fight, this battle, will be the defining battle.
+16:18
+I'm worried about this fight.
+16:19
+Dr. Kissinger talked about the likely path to war with China
+16:24
+was by accident.
+16:27
+And he was a student of World War I.
+16:29
+And of course, [it] started with a small event,
+16:32
+and it escalated over that summer in, I think, 1914.
+16:35
+And then it was this horrific conflagration.
+16:39
+You can imagine a series of steps
+16:41
+along the lines of what I'm talking about
+16:43
+that could lead us to a horrific global outcome.
+16:47
+That's why we have to be paying attention.
+16:49
+BS: I want to talk about one of the recurring tensions here,
+16:52
+before we move on to the dreams,
+16:54
+is, to sort of moderate these AI systems at scale, right,
+16:57
+there's this weird tension in AI safety
+16:59
+that the solution to preventing "1984"
+17:03
+often sounds a lot like "1984."
+17:06
+So proof of personhood is a hot topic.
+17:07
+Moderating these systems at scale is a hot topic.
+17:10
+How do you view that trade-off?
+17:11
+In trying to prevent dystopia,
+17:13
+let's say preventing non-state actors
+17:15
+from using these models in undesirable ways,
+17:18
+we might accidentally end up building the ultimate surveillance state.
+17:23
+ES: It's really important that we stick to the values
+17:26
+that we have in our society.
+17:29
+I am very, very committed to individual freedom.
+17:31
+It's very easy for a well-intentioned engineer to build a system
+17:36
+which is optimized and restricts your freedom.
+17:39
+So it's very important that human freedom be preserved in this.
+17:44
+A lot of these are not technical issues.
+17:46
+They're really business decisions.
+17:48
+It's certainly possible to build a surveillance state,
+17:50
+but it's also possible to build one that's freeing.
+17:53
+The conundrum that you're describing
+17:54
+is because it's now so easy to operate based on misinformation,
+17:58
+everyone knows what I'm talking about,
+18:00
+that you really do need proof of identity.
+18:02
+But proof of identity does not have to include details.
+18:05
+So, for example, you could have a cryptographic proof
+18:08
+that you are a human being,
+18:09
+and it could actually be true without anything else,
+18:11
+and also not be able to link it to others
+18:14
+using various cryptographic techniques.
+18:17
+BS: So zero-knowledge proofs and other techniques.
+18:19
+ES: Zero-knowledge proofs are the most obvious one.
+18:22
+BS: Alright, let's change gears, shall we, to dreams.
+18:25
+In your book, "Genesis," you strike a cautiously optimistic tone,
+18:29
+which you obviously co-authored with Henry Kissinger.
+18:32
+When you look ahead to the future, what should we all be excited about?
+18:35
+ES: Well, I'm of the age
+18:37
+where some of my friends are getting really dread diseases.
+18:41
+Can we fix that now?
+18:43
+Can we just eliminate all of those?
+18:45
+Why can't we just uptake these
+18:47
+and right now, eradicate all of these diseases?
+18:51
+That's a pretty good goal.
+18:54
+I'm aware of one nonprofit that's trying to identify,
+18:57
+in the next two years,
+18:59
+all human druggable targets and release it to the scientists.
+19:02
+If you know the druggable targets,
+19:04
+then the drug industry can begin to work on things.
+19:07
+I have another company I'm associated with
+19:09
+which has figured out a way, allegedly, it's a startup,
+19:12
+to reduce the cost of stage-3 trials by an order of magnitude.
+19:16
+As you know, those are the things
+19:18
+that ultimately drive the cost structure of drugs.
+19:20
+That's an example.
+19:21
+I'd like to know where dark energy is,
+19:24
+and I'd like to find it.
+19:26
+I'm sure that there is an enormous amount of physics in dark energy, dark matter.
+19:32
+Think about the revolution in material science.
+19:35
+Infinitely more powerful transportation,
+19:38
+infinitely more powerful science and so forth.
+19:42
+I'll give you another example.
+19:43
+Why do we not have every human being on the planet
+19:49
+have their own tutor in their own language
+19:53
+to help them learn something new?
+19:55
+Starting with kindergarten.
+19:56
+It's obvious.
+19:58
+Why have we not built it?
+19:59
+The answer, the only possible answer
+20:01
+is there must not be a good economic argument.
+20:03
+The technology works.
+20:05
+Teach them in their language, gamify the learning,
+20:08
+bring people to their best natural lengths.
+20:10
+Another example.
+20:11
+The vast majority of health care in the world
+20:13
+is either absent
+20:15
+or delivered by the equivalent of nurse practitioners
+20:17
+and very, very sort of stressed local village doctors.
+20:20
+Why do they not have the doctor assistant that helps them in their language,
+20:25
+treat whatever with, again, perfect healthcare?
+20:27
+I can just go on.
+20:29
+There are lots and lots of issues with the digital world.
+20:35
+It feels like that we're all in our own ships in the ocean,
+20:39
+and we're not talking to each other.
+20:40
+In our hunger for connectivity and connection,
+20:44
+these tools make us lonelier.
+20:47
+We've got to fix that, right?
+20:48
+But these are fixable problems.
+20:50
+They don't require new physics.
+20:52
+They don't require new discoveries, we just have to decide.
+20:55
+So when I look at this future,
+20:56
+I want to be clear that the arrival of this intelligence,
+21:01
+both at the AI level, the AGI,
+21:03
+which is general intelligence,
+21:05
+and then superintelligence,
+21:07
+is the most important thing that's going to happen in about 500 years,
+21:11
+maybe 1,000 years in human society.
+21:13
+And it's happening in our lifetime.
+21:15
+So don't screw it up.
+21:18
+BS: Let's say we don't.
+21:20
+(Applause)
+21:23
+Let's say we don't screw it up.
+21:25
+Let's say we get into this world of radical abundance.
+21:28
+Let's say we end up in this place,
+21:29
+and we hit that point of recursive self-improvement.
+21:33
+AI systems take on a vast majority of economically productive tasks.
+21:37
+In your mind, what are humans going to do in this future?
+21:40
+Are we all sipping piña coladas on the beach, engaging in hobbies?
+21:43
+ES: You tech liberal, you.
+21:45
+You must be in favor of UBI.
+21:48
+BS: No, no, no.
+21:49
+ES: Look, humans are unchanged
+21:52
+in the midst of this incredible discovery.
+21:55
+Do you really think that we're going to get rid of lawyers?
+21:57
+No, they're just going to have more sophisticated lawsuits.
+22:01
+Do you really think we're going to get rid of politicians?
+22:03
+No, they'll just have more platforms to mislead you.
+22:06
+Sorry.
+22:07
+I mean, I can just go on and on and on.
+22:10
+The key thing to understand about this new economics
+22:13
+is that we collectively, as a society, are not having enough humans.
+22:18
+Look at the reproduction rate in Asia,
+22:21
+is essentially 1.0 for two parents.
+22:23
+This is not good, right?
+22:25
+So for the rest of our lives,
+22:27
+the key problem is going to get the people who are productive.
+22:30
+That is, in their productive period of lives,
+22:33
+more productive to support old people like me, right,
+22:37
+who will be bitching that we want more stuff from the younger people.
+22:40
+That's how it's going to work.
+22:42
+These tools will radically increase that productivity.
+22:45
+There's a study that says that we will,
+22:47
+under this set of assumptions around agentic AI and discovery
+22:51
+and the scale that I'm describing,
+22:52
+there's a lot of assumptions
+22:54
+that you'll end up
+22:56
+with something like 30-percent increase in productivity per year.
+23:00
+Having now talked to a bunch of economists,
+23:02
+they have no models
+23:04
+for what that kind of increase in productivity looks like.
+23:07
+We just have never seen it.
+23:09
+It didn't occur in any rise of a democracy or a kingdom in our history.
+23:15
+It's unbelievable what's going to happen.
+23:18
+Hopefully we will get it in the right direction.
+23:22
+BS: It is truly unbelievable.
+23:23
+Let's bring this home, Eric.
+23:25
+You've navigated decades of technological change.
+23:27
+For everyone that's navigating this AI transition,
+23:30
+technologists, leaders, citizens
+23:32
+that are feeling a mix of excitement and anxiety,
+23:35
+what is that single piece of wisdom
+23:38
+or advice you'd like to offer
+23:40
+for navigating this insane moment that we're living through today?
+23:43
+ES: So one thing to remember
+23:45
+is that this is a marathon, not a sprint.
+23:49
+One year I decided to do a 100-mile bike race,
+23:52
+which was a mistake.
+23:54
+And the idea was, I learned about spin rate.
+23:57
+Every day, you get up, and you just keep going.
+23:59
+You know, from our work together at Google,
+24:02
+that when you’re growing at the rate that we’re growing,
+24:06
+you get so much done in a year,
+24:09
+you forget how far you went.
+24:12
+Humans can't understand that.
+24:14
+And we're in this situation
+24:15
+where the exponential is moving like this.
+24:18
+As this stuff happens quicker,
+24:20
+you will forget what was true two years ago or three years ago.
+24:25
+That's the key thing.
+24:27
+So my advice to you all is ride the wave, but ride it every day.
+24:32
+Don't view it as episodic and something you can end,
+24:34
+but understand it and build on it.
+24:36
+Each and every one of you has a reason to use this technology.
+24:41
+If you're an artist, a teacher, a physician,
+24:44
+a business person, a technical person.
+24:47
+If you're not using this technology,
+24:49
+you're not going to be relevant compared to your peer groups
+24:52
+and your competitors
+24:54
+and the people who want to be successful.
+24:56
+Adopt it, and adopt it fast.
+24:58
+I have been shocked at how fast these systems --
+25:01
+as an aside, my background is enterprise software,
+25:06
+and nowadays there's a model Protocol from Anthropic.
+25:10
+You can actually connect the model directly into the databases
+25:13
+without any of the connectors.
+25:15
+I know this sounds nerdy.
+25:16
+There's a whole industry there that goes away
+25:18
+because you have all this flexibility now.
+25:20
+You can just say what you want, and it just produces it.
+25:23
+That's an example of a real change in business.
+25:26
+There are so many of these things coming every day.
+25:29
+BS: Ladies and gentlemen, Eric Schmidt.
+25:31
+ES: Thank you very much.
+25:32
+(Applause)
