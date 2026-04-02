@@ -1,808 +1,1163 @@
-0:03
-So why is it the case
-0:06
-that when we are feeling the most anxious, uncomfortable,
-0:10
-socially awkward versions of ourselves,
-0:13
-when our hearts are pounding and our palms are sweating
+0:04
+Bilawal Sidhu: Eric Schmidt, thank you for joining us.
+0:07
+Let's go back.
+0:09
+You said the arrival of non-human intelligence is a very big deal.
+0:14
+And this photo, taken in 2016,
 0:16
-and we feel like crawling out of our skin,
-0:18
-are we also the most nice and often generic to the people around us?
-0:24
-I'm a social psychologist,
-0:26
-and I've been studying the science of uncomfortable social interactions
-0:29
-for over 20 years.
+feels like one of those quiet moments where the Earth shifted beneath us,
+0:20
+but not everyone noticed.
+0:22
+What did you see back then that the rest of us might have missed?
+0:25
+Eric Schmidt: In 2016, we didn't understand
+0:28
+what was now going to happen,
 0:30
-So everything from new roommate relationships,
+but we understood that these algorithms were new and powerful.
 0:34
-negotiations,
-0:35
-upward feedback with your boss to doctor patient-interactions,
-0:39
-those moments where you need to break in and say,
-0:42
-"Yeah, for the last 20 minutes,
-0:43
-I actually have no idea what you were talking about.
-0:46
-Can we maybe rewind a bit?"
+What happened in this particular set of games
+0:36
+was in roughly the second game,
+0:38
+there was a new move invented by AI
+0:41
+in a game that had been around for 2,500 years
+0:44
+that no one had ever seen.
 0:47
-And to study these things,
+Technically, the way this occurred
 0:48
-I look at three main outcomes.
-0:51
-First, I look at what people say, the things we can control,
-0:55
-how friendly we are,
+was that the system of AlphaGo was essentially organized
+0:52
+to always maintain a greater than 50 percent chance of winning.
 0:56
-how much we complement one another,
+And so it calculated correctly this move,
 0:59
-how much we give gracious feedback.
+which was this great mystery among all of the Go players
 1:01
-Second, I look at the things that are tougher for us to control,
-1:05
-our nonverbal behaviors, things like fidgeting,
-1:08
-avoiding eye contact, playing with our hair,
-1:11
-doodling even,
+who are obviously insanely brilliant,
+1:04
+mathematical and intuitive players.
+1:07
+The question that Henry, Craig Mundie and I started to discuss, right,
 1:13
-even our tone of voice.
-1:14
-And then I look at the things that are impossible for us to control
+is what does this mean?
 1:18
-our under-the-skin responses,
+How is it that our computers could come up with something
 1:20
-our physiology, our cardiovascular reactivity,
-1:24
-things like blood pressure, heart rate,
-1:26
-these types of things
-1:28
-that we often don't even really realize that we're feeling.
+that humans had never thought about?
+1:22
+I mean, this is a game played by billions of people.
+1:25
+And that began the process that led to two books.
+1:29
+And I think, frankly,
 1:31
-And the way I do this is by having people come into the lab
-1:34
-and interact with each other in a bunch of different settings,
+is the point at which the revolution really started.
+1:35
+BS: If you fast forward to today,
 1:37
-and I have them negotiate with each other,
-1:39
-I have them get acquainted with each other.
+it seems that all anyone can talk about is AI,
 1:41
-And often it's the case that in these interactions,
-1:44
-people are required to give some form of feedback to their partner.
+especially here at TED.
+1:43
+But you've taken a contrarian stance.
+1:46
+You actually think AI is underhyped.
+1:48
+Why is that?
 1:49
-Tell them honestly what they're thinking or feeling,
+ES: And I'll tell you why.
 1:51
-come in with an offer for a negotiation,
-1:53
-tell them what they could have done better next time.
-1:56
-And I think we all kind of know what it feels like
-1:58
-to be in one of these studies.
-2:00
-You might not know what it would really feel like to be in one of my studies.
+Most of you think of AI as,
+1:52
+I'll just use the general term, as ChatGPT.
+1:54
+For most of you, ChatGPT was the moment where you said,
+1:57
+"Oh my God,
+1:59
+this thing writes, and it makes mistakes,
+2:01
+but it's so brilliantly verbal."
 2:03
-There's a lot of equipment involved,
+That was certainly my reaction.
 2:05
-but we plug people up to all of these things
+Most people that I knew did that.
 2:07
-to measure these under-the-skin responses.
-2:09
-We videotape them to capture those behaviors that I just mentioned.
-2:12
-Now, to get us all into this mindset of what it's like to feel awkward,
+BS:
+It was visceral, yeah.
+2:08
+ES: This was two years ago.
+2:10
+Since then, the gains in what is called reinforcement learning,
+2:13
+which is what AlphaGo helped invent and so forth,
 2:16
-but maybe potentially a little bit nice,
-2:18
-I want you all to think
+allow us to do planning.
 2:19
-about what was the last awkward interaction that you had.
-2:24
-OK, so keep this thought in your mind.
-2:26
-You can think about it for a few moments,
-2:29
-because in a couple minutes,
+And a good example is look at OpenAI o3
+2:23
+or DeepSeek R1,
+2:25
+and you can see how it goes forward and back,
+2:28
+forward and back, forward and back.
 2:30
-I'm actually going to randomly call on someone based on your seat
+It's extraordinary.
+2:32
+In my case, I bought a rocket company
 2:34
-to have you come up
-2:35
-and share your story of what that moment felt like.
-2:40
-So before we do that,
-2:41
-I just want you all to kind of get a sense of the typical pattern that we see
-2:46
-when people are engaging in these interactions.
+because it was like, interesting.
+2:36
+BS: (Laughs) As one does.
+2:38
+ES: As one does.
+2:39
+And it’s an area that I’m not an expert in,
+2:42
+and I want to be an expert.
+2:43
+So I'm using deep research.
+2:45
+And these systems are spending 15 minutes writing these deep papers.
 2:49
-So we bring them into the lab,
+That's true for most of them.
 2:51
-we hook them up to all this equipment
+Do you have any idea how much computation
 2:53
-and within moments, within the first 20 seconds,
+15 minutes of these supercomputers is?
 2:56
-we start to see those stress responses that I mentioned.
+It's extraordinary.
+2:57
+So you’re seeing the arrival,
 2:59
-Their heart rate goes up, their blood pressure increases.
-3:02
-It doesn't take much to get people to start to feel anxious.
+the shift from language to language.
+3:01
+Tthen you had language to sequence,
+3:03
+which is how biology is done.
 3:05
-Next, we see it in those nonverbal behaviors.
-3:08
-They start to fidget,
+Now you're doing essentially planning and strategy.
 3:09
-they avoid eye contact,
+The eventual state of this
 3:11
-they pull their chair a couple inches away
-3:13
-from the person who's sitting next to them,
-3:15
-in an effort just to get a little bit more distance.
-3:18
-One of my favorite findings is in doctor-patient interactions,
-3:21
-uncomfortable doctors,
-3:22
-they look down at the chart more,
-3:24
-or they look more at the computer screen
+is the computers running all business processes, right?
+3:14
+So you have an agent to do this, an agent to do this,
+3:17
+an agent to do this.
+3:19
+And you concatenate them together,
+3:20
+and they speak language among each other.
+3:23
+They typically speak English language.
+Scale
 3:26
-instead of making eye contact with those patients.
-3:29
-So let's all return to your awkward moment.
+BS: I mean, speaking of just the sheer compute requirements of these systems,
 3:31
-Does everyone have an awkward moment in mind or thinking about one?
+let's talk about scale briefly.
+3:33
+You know, I kind of think of these AI systems as Hungry Hungry Hippos.
 3:36
-How many of you have increases in your heart rate,
-3:39
-maybe your palms are sweating?
-3:41
-You can start to feel yourself getting a little tingly
-3:44
-just with the mere thought of being called upon today?
-3:46
-Hey, a few of you.
-3:48
-How many people would actually be excited about that opportunity?
+They seemingly soak up all the data and compute that we throw at them.
+3:40
+They've already digested all the tokens on the public internet,
+3:43
+and it seems we can't build data centers fast enough.
+3:47
+What do you think the real limits are,
+3:49
+and how do we get ahead of them
 3:51
-Not -- OK, same people.
-3:52
-(Laughter)
+before they start throttling AI progress?
 3:54
-How many of you, if I did call on you, would walk up here,
+ES: So there's a real limit in energy.
+3:56
+Give you an example.
 3:57
-you would grin through gritted teeth like this
+There's one calculation,
+3:58
+and I testified on this this week in Congress,
 4:01
-and you would do it even though you secretly hated me the whole time?
-4:05
-A few of you.
+that we need another 90 gigawatts of power in America.
 4:06
-Don't worry, I'm not going to actually do this.
-4:08
-This was all just a ruse to teach you a lesson
-4:11
-which is, in uncomfortable social interactions,
-4:13
-we often don't have a social script of what to do.
+My answer, by the way, is, think Canada, right?
+4:10
+Nice people, full of hydroelectric power.
+4:12
+But that's apparently not the political mood right now.
 4:16
-Instead of telling people what we really think, what we really feel,
-4:20
-we do the nice thing that makes us incredibly uncomfortable.
+Sorry.
+4:17
+So 90 gigawatts is 90 nuclear power plants in America.
+4:22
+Not happening.
+4:24
+We're building zero, right?
 4:25
-Now one of my favorite findings illustrating this effect
-4:28
-is in the context of negotiations.
+How are we going to get all that power?
+4:27
+This is a major, major national issue.
 4:30
-I went to a major firm and I brought people together
-4:33
-who were used to working with one another,
+You can use the Arab world,
+4:31
+which is busy building five to 10 gigawatts of data centers.
 4:35
-and we had them engage in a negotiation.
-4:37
-And at the end of it,
+India is considering a 10-gigawatt data center.
 4:38
-there was a winner and there was a loser.
-4:40
-So we said to the winner,
-4:42
-you know, this is really a study about feedback.
+To understand how big gigawatts are,
+4:41
+is think cities per data center.
 4:44
-And what we would like you to do is give some constructive feedback
-4:47
-to the person who just lost.
-4:49
-What are some things that they could do better next time?
-4:52
-What are some potential missteps?
+That's how much power these things need.
+4:46
+And the people look at it and they say,
+4:48
+“Well, there’s lots of algorithmic improvements,
+4:51
+and you will need less power."
 4:53
-How many of you think that that's what they actually did,
-4:56
-they really followed our instructions?
-4:58
-OK, nobody.
-4:59
-[You] can see where this is going.
-5:01
-What we found is that even when we're talking to someone
-5:04
-who just lost a negotiation to us, we tend to bend over backwards.
+There's an old rule, I'm old enough to remember, right?
+4:57
+Grove giveth, Gates taketh away.
+5:00
+OK, the hardware just gets faster and faster.
+5:03
+The physicists are amazing.
+5:06
+Just incredible what they've been able to do.
 5:08
-We say things like,
-5:10
-"The way you made that really early offer and didn't even ask for a counter,
-5:13
-that was amazing."
+And us software people, we just use it and use it and use it.
+5:12
+And when you look at planning, at least in today's algorithms,
 5:15
-Or "It was so great how you didn't even ask me anything about my side,
+it's back and forth and try this and that
 5:18
-or what I was willing to kind of, you know,
+and just watch it yourself.
 5:20
-change on or be flexible on."
-5:23
-People layered on the compliments
-5:25
-to someone who they just beat in a negotiation,
-5:27
-telling them how great they are.
+There are estimates, and you know this from Andreessen Horowitz reports,
+5:24
+it's been well studied,
+5:26
+that there's an increase in at least a factor of 100,
 5:29
-So often these kinds of interactions
-5:32
-that take the form of what I’ll call “anxious niceness,”
-5:35
-they involve a lot of compliments,
-5:37
-telling people what they do well in a very general, non-specific way.
+maybe a factor of 1,000,
+5:30
+in computation required just to do the kind of planning.
+5:34
+The technology goes from essentially deep learning to reinforcement learning
+5:38
+to something called test-time compute,
+5:40
+where not only are you doing planning,
 5:42
-But a lot of my work actually looks
-5:43
-at what's it like to be on the receiving end
-5:47
-of these types of interactions.
-5:48
-How do you feel when you interact with someone over and over again
-5:52
-who's giving off these kinds of brittle smiles?
+but you're also learning while you're doing planning.
+5:45
+That is the, if you will,
+5:46
+the zenith or what have you, of computation needs.
+5:50
+That's problem number one, electricity and hardware.
+5:53
+Problem number two is we ran out of data
 5:57
-These are typically the kinds of facial expressions
+so we have to start generating it.
 5:59
-that we actually see from people, kind of sneering,
-6:02
-a little bit of side eye,
+But we can easily do that because that's one of the functions.
+6:01
+And then the third question that I don't understand
 6:04
-you know, arms crossed, these types of things.
+is what's the limit of knowledge?
 6:07
-After a lifetime of interacting with someone
-6:09
-who engages in anxious niceness,
+I'll give you an example.
+6:08
+Let's imagine we are collectively all of the computers in the world,
 6:11
-what we find is that most people on the receiving end
-6:15
-are racial minorities.
-6:16
-They are disadvantaged group members,
-6:18
-they are the type of people
-6:20
-that we are worried about appearing prejudiced in front of,
+and we're all thinking
+6:13
+and we're all thinking based on knowledge that exists that was previously invented.
+6:17
+How do we invent something completely new?
+6:21
+So, Einstein.
 6:23
-and that anxiety is regulated
-6:25
-by being over-the-top nice to these folks.
+So when you study the way scientific discovery works,
+6:26
+biology, math, so forth and so on,
 6:28
-We also find that these individuals tend to be more synchronized to
+what typically happens is a truly brilliant human being
 6:32
-and attentive to the how-we-say-it piece
+looks at one area and says,
 6:35
-than the what-we-say part.
+"I see a pattern
 6:37
-So in one study, we had Black and white Americans
+that's in a completely different area,
+6:38
+has nothing to do with the first one.
 6:40
-interact with each other in a cross-race interaction,
-6:44
-and we brought them into the lab
+It's the same pattern."
+6:42
+And they take the tools from one and they apply it to another.
 6:45
-and we measured the physiology of both partners.
+Today, our systems cannot do that.
 6:48
-What this allowed us to do is capture the degree
-6:50
-to which people stress.
-6:52
-Those under-the-skin responses can actually be caught by their partners.
+If we can get through that, I'm working on this,
+6:51
+a general technical term for this is non-stationarity of objectives.
 6:56
-And what we expected to find
+The rules keep changing.
 6:58
-is that the Black participants would become more synchronized,
-7:01
-physiologically, to those whites.
+We will see if we can solve that problem.
+7:00
+If we can solve that, we're going to need even more data centers.
 7:03
-They'd be more attuned to those, kind of, nonverbal signals of anxiety.
-7:07
-And that's exactly what we found.
-7:09
-The more anxious those white participants appeared,
-7:12
-the more they fidgeted, the more they avoided eye contact,
-7:14
-even the higher their cortisol reactivity,
-7:17
-indicating some real deep, kind of, under-the-skin stress response,
-7:20
-the more those Black participants became linked up to them over time.
+And we'll also be able to invent completely new schools of scientific
+7:08
+and intellectual thought,
+7:10
+which will be incredible.
+Autonomy
+7:11
+BS: So as we push towards a zenith,
+7:13
+autonomy has been a big topic of discussion.
+7:16
+Yoshua Bengio gave a compelling talk earlier this week,
+7:19
+advocating that AI labs should halt the development of agentic AI systems
+7:23
+that are capable of taking autonomous action.
 7:25
-And I think this finding is a little bit terrifying.
-7:27
-I think it means that we often think of our own stress and our own physiology
-7:31
-as independent of the people we interact with,
-7:34
-but our bodies are not always our own,
-7:36
-our physiology is not always our own.
+Yet that is precisely what the next frontier is for all these AI labs,
+7:30
+and seemingly for yourself, too.
+7:32
+What is the right decision here?
+7:33
+ES: So Yoshua is a brilliant inventor of much of what we're talking about
 7:38
-And if you spend a lifetime interacting with people who are so nice to you,
-7:41
-in an effort to control their anxiety,
+and a good personal friend.
+7:39
+And we’ve talked about this, and his concerns are very legitimate.
 7:43
-you could potentially catch that stress.
+The question is not are his concerns right,
 7:45
-It could negatively affect your bodies.
-7:48
-Now often what we find is the type of feedback
-7:51
-that people are actually getting
-7:52
-isn't always super direct.
-7:54
-Sometimes it's a little bit patronizing.
-7:57
-So you could probably see where I'm going with this.
+but what are the solutions?
+7:47
+So let's think about agents.
+7:49
+So for purposes of argument, everyone in the audience is an agent.
+7:53
+You have an input that's English or whatever language.
+7:56
+And you have an output that’s English, and you have memory,
 7:59
-Having over-the-top positive nice feedback can harm your performance,
+which is true of all humans.
+8:01
+Now we're all busy working,
 8:02
-it can make it very difficult for you to climb up,
-8:05
-difficult to kind of know where you stand, what you should do better,
-8:08
-what you should stop doing,
+and all of a sudden, one of you decides
+8:06
+it's much more efficient not to use human language,
 8:09
-but can also damage people in ways that we often don't think about.
-8:13
-It can affect their reputations outside of the interaction context.
-8:18
-So imagine the case that you're one of these people
-8:21
-who loves giving this general, nice feedback,
-8:23
-and you have someone who works for you,
+but we'll invent our own computer language.
+8:11
+Now you and I are sitting here, watching all of this,
+8:14
+and we're saying, like, what do we do now?
+8:16
+The correct answer is unplug you, right?
+8:19
+Because we're not going to know,
+8:22
+we're just not going to know what you're up to.
 8:25
-and a recruiter calls, maybe a past employee,
+And you might actually be doing something really bad or really amazing.
 8:28
-a recruiter calls you,
-8:29
-or someone asks you for a letter of recommendation,
-8:31
-the kinds of things you're going to put are going to be like,
-8:34
-"They're are real team player."
-8:36
-"They have great energy at work."
-8:37
-Generic things.
+We want to be able to watch.
+8:30
+So we need provenance, something you and I have talked about,
+8:33
+but we also need to be able to observe it.
+8:35
+To me, that's a core requirement.
 8:39
-Yes, they're nice, but they are not very telling
-8:41
-about what that person is really like.
-8:43
-And what we find is that the readers of these things, at best,
-8:46
-think to themselves,
+There's a set of criteria that the industry believes are points
+8:42
+where you want to, metaphorically, unplug it.
+8:44
+One is where you get recursive self-improvement,
 8:47
-"Wow, they must not really know this person at all.
-8:50
-I don't even know what this means."
+which you can't control.
+8:48
+Recursive self-improvement is where the computer is off learning,
 8:51
-At worst, they think to themselves,
+and you don't know what it's learning.
 8:53
-"Well, they probably have some real opinions.
+That can obviously lead to bad outcomes.
 8:55
-They're just afraid to share them."
+Another one would be direct access to weapons.
 8:57
-So these kinds of general positive feedback
-8:59
-tend to actually harm people's reputation when they're not backed up with real data.
-9:05
-So I think we have to then think
-9:07
-about what is the solution to this problem.
-9:09
-Is it the case that we should all just be meaner to each other
-9:12
-in an effort to be more direct?
-9:14
-I don't think that's the case at all.
+Another one would be that the computer systems decide to exfiltrate themselves,
+9:01
+to reproduce themselves without our permission.
+9:04
+So there's a set of such things.
+9:06
+The problem with Yoshua's speech, with respect to such a brilliant person,
+9:11
+is stopping things in a globally competitive market
 9:15
-I think there are some things we can do,
+doesn't really work.
 9:17
-and I'm going to highlight three of them,
-9:19
-to improve the degree to which we give clear,
-9:21
-consistent feedback to people,
+Instead of stopping agentic work,
+9:20
+we need to find a way to establish the guardrails,
 9:23
-particularly in the workplace.
-9:24
-So first we need to ask ourselves the question,
-9:27
-how many people are on board with this niceness culture, really?
-9:31
-There's a bit of a plural ignorance that goes on
-9:33
-when we think about how nice we are to people at work.
-9:37
-What I've found is that for every one person
-9:40
-who loves this kind of general, generic, nice feedback,
-9:43
-there's another person who feels like it's lazy,
-9:46
-who feels like it's not helpful.
-9:48
-And I actually learned this lesson the hard way
-9:50
-from one of my students recently.
-9:52
-She was giving a practice talk in my lab,
-9:54
-and she spent weeks and weeks preparing it,
-9:57
-probably harder than anyone else I'd ever seen
-9:59
-on preparing a talk like this.
-10:01
-And then she went and gave it, and she came back and I said,
-10:04
-"How did the talk go? Did it go well?"
-10:06
-She said, "It was terrible. It was horrible.
-10:08
-It was the worst experience."
-10:10
-I said, "Well, what happened?"
-10:11
-And she said, "All I got were a bunch of 'Great jobs,'
-10:14
-‘That was interesting’
-10:16
-and then some clap emojis from the people on Zoom.
-10:18
-Not a single person asked a tough question," she said.
-10:23
-And I had this moment where I realized
-10:25
-that positive feedback can come across as lazy feedback.
-10:28
-It can come across as disengaged feedback.
-10:31
-And so if we want to change this culture,
-10:33
-we actually need to first do a quick pulse
-10:36
-of how many people are actually more interested in doing the tougher,
-10:40
-constructive forms of this type of feedback.
-10:43
-So you might be thinking to yourselves,
-10:45
-"Alright, I might be on board with this idea of tough,
-10:49
-yet honest feedback.
-10:51
-So what should I do?
-10:52
-Should I go to people and say, ’Alright, do you want me to be ... nice
-10:55
-or honest and useful?'"
-10:59
-No, do not do this.
-11:01
-You will, by and large, get a lot of people telling you,
-11:03
-"You know, I actually just want to keep it nice.
-11:06
-That just feels a lot more comfortable for me."
-11:08
-What I learned in my work
-11:09
-is that this process I've been talking about,
-11:11
-about giving anxious, nice feedback,
-11:13
-is just as much about the feedback receiver
-11:15
-as it is about the feedback giver.
-11:17
-People get into a bit of a dance with each other.
-11:20
-I give you nice feedback, you kind of know it's BS,
-11:23
-but you smile and say thank you and then, you know, go on your way.
-11:27
-It takes a lot to break that interpersonal cycle.
-11:31
-And to do that,
-11:32
-we have to think about how we actually want
-11:34
-to frame our feedback to other people.
-11:36
-So instead of asking people,
-11:38
-"Should I be nice or honest and useful?"
-11:41
-What I like to do is ask people,
-11:43
-"Can I give you feedback on a couple dimensions?"
-11:46
-Can we think about feedback as general versus specific?
-11:49
-Another dimension would be,
-11:51
-can we think about things that you're doing well
-11:53
-you should keep doing
-11:54
-versus things that "please stop."
-11:56
-And I'll get in a moment
-11:58
-to how we can actually frame that form of negative feedback.
-12:01
-So I think a lot of us are actually pretty decent
-12:04
-at the positive general feedback, right?
-12:07
-"I love how timely you are."
-12:10
-But what does that mean?
-12:11
-It could mean that you're on time for meetings,
-12:13
-it could mean that you turn your work in on time,
-12:16
-it could mean it in a very global way of,
-12:18
-"You sure managed to do a lot in five years."
-12:20
-Or it could mean something so specific,
-12:22
-like, “It’s so helpful that you send in your reports by 5 pm,”
-12:25
-but I don't really want to comment
-12:26
-on all those other kinds of forms of being timely.
-12:29
-And when we do the kind of general feedback that is negative,
-12:33
-the "please stop," we need it to be specific.
-12:37
-So kind of, one of the more common forms of general negative feedback people get
-12:41
-is "You don't take enough initiative here."
-12:43
-How many of you have ever been told, “Please take some more initiative”?
-12:46
-I think most of us at some point in our lives have experienced this.
-12:50
-What does that mean?
-12:51
-Does it mean I should speak up more in meetings?
-12:53
-Does it mean I should be quicker on my email?
-12:55
-Does it mean I should do your job without complaining about doing your job,
-12:59
-which is often what it actually means?
-13:01
-We have to break it down into the specifics,
-13:03
-and that could include things like,
-13:05
-"Don't wait for Tom to ask if you found any errors
-13:07
-before you say, 'Tom, I found some errors.'"
-13:10
-Now an important piece here is what people should do instead.
-13:14
-Often if we get to the stage
-13:16
-where we're comfortable enough telling people,
-13:18
-“I have a specific, critical, negative thing I want to tell you,” --
-13:22
-“Please stop interrupting people,”
-13:24
-you know, not telling Tom about the errors,
-13:27
-showing up five minutes late with coffee
-13:29
-so I know what you were doing during those five minutes --
-13:32
-we don’t tend to replace them with anything,
-13:34
-but we know from our personal lives that replacing negative critical,
-13:38
-"please stop" behaviors is absolutely essential.
-13:41
-So I want to take you out of the workplace for a moment.
-13:44
-And we're going to go to the bedroom.
-13:45
-Yes, I said we're going to the bedroom.
-13:47
-So imagine it's the case that you just had sex with someone for the first time.
-13:51
-OK, we're all there, we've done a lot of mentalizing today.
-13:55
-And you turn to the person and you say,
-13:57
-"Those last three things you just did back there,
-14:00
-no good.
-14:01
-They're all bad.
-14:02
-Didn't like any of them."
-14:04
-They're going to look at you in shock and surprise and say,
-14:06
-"Well, what should I do instead," right?
-14:08
-And until we're ready to actually fire the person
-14:11
-or kick them out of bed
-14:12
-or fire them from our team,
-14:13
-we have to focus on those replacement behaviors,
-14:16
-what they should be doing instead.
-14:19
-And I think as we think through kind of, scaling this type of feedback,
-14:24
-it can be very scary to make these types of change.
-14:26
-What I found is that cultures of anxious, nice feedback are ingrained.
-14:31
-They're systemic,
-14:32
-they are deeply embedded in a community,
-14:35
-in the workplace, in a team,
-14:38
-even in dyadic interpersonal relationships.
-14:40
-And so to break that cycle, you have to start small,
-14:43
-you need to start neutral.
-14:45
-And by neutral I mean things
-14:46
-that are not scary to hear critical feedback on.
-14:49
-You might be thinking to yourself,
-14:51
-what's some neutral feedback that you could give me
-14:53
-at the end of my talk?
-14:55
-How about "I would switch the order of the points on your talk"
-14:58
-or "I would change the font."
-14:59
-These types of feedback are specific, and so they're useful,
-15:02
-but they're not scary to deliver
-15:03
-and they're not actually scary to receive.
-15:06
-And what we find is that when people take these baby steps
-15:08
-to work up to this type of feedback,
-15:10
-they are much less anxious in the delivery.
-15:13
-So those behaviors I opened with of people fidgeting,
-15:16
-engaging in what we call a brittle smile,
-15:19
-avoiding eye contact,
-15:20
-they actually go down
-15:21
-and so do those stress responses
-15:23
-when you know and you're anticipating giving this kind of feedback
-15:27
-that isn't going to sting.
-15:29
-And I think as you work through this,
-15:31
-I don't want to be a proponent of killing niceness entirely.
-15:34
-I think it's actually really important
-15:36
-to put niceness in the delivery of your feedback,
-15:39
-and that can come across in a bunch of different ways.
-15:41
-It can come across as by showing you're engaged, you listened.
-15:44
-You know what the person's actually trying to do,
-15:46
-you're aligned with their goals.
-15:48
-The first time I actually got this type of critical nice feedback
-15:51
-was after a talk I gave
-15:53
-and the person came up to me and she said,
-15:55
-"Can I give you some feedback?"
-15:57
-And immediately my heart started pounding.
-15:59
-I'm like, oh great, here we go.
-16:00
-No one likes hearing, "Can I give you some feedback?"
-16:03
-And she opened with three things that she thought I did well.
-16:06
-"I really liked points one, two and three you made in that talk.
-16:10
-They really resonated with me.
-16:12
-But you have this habit when you're concentrating
-16:15
-of looking up and to the right,
-16:17
-and so you spent half the talk kind of staring at the ceiling
-16:20
-or the exit sign in this case,
-16:22
-instead of making eye contact with the audience.
-16:24
-And it's distracting and it creates a distance."
-16:26
-So I thought a little bit about it
-16:28
-with my eyes probably rolled up inside my head,
-16:31
-and I thought, OK, I can actually make that change.
-16:34
-It doesn't feel super scary.
-16:36
-And so I did.
-16:37
-I made that change, and I thought about how she framed that feedback
-16:40
-through this culture of niceness.
-16:42
-So I want to wish you all luck
-16:44
-on your journey of trying to change culture of feedback,
-16:47
-killing anxious niceness,
-16:49
-and hopefully have some concrete steps to help you move forward.
-16:52
-Thank you.
-16:53
+which I know you agree with because we’ve talked about it.
+9:26
 (Applause)
+Dilemmas
+9:30
+BS: I think that brings us nicely to the dilemmas.
+9:32
+And let's just say there are a lot of them when it comes to this technology.
+9:36
+The first one I'd love to start with, Eric,
+9:38
+is the exceedingly dual-use nature of this tech, right?
+9:40
+It's applicable to both civilian and military applications.
+9:44
+So how do you broadly think about the dilemmas
+9:47
+and ethical quandaries
+9:48
+that come with this tech and how humans deploy them?
+9:53
+ES: In many cases, we already have doctrines
+9:55
+about personal responsibility.
+9:57
+A simple example, I did a lot of military work
+9:59
+and continue to do so.
+10:01
+The US military has a rule called 3000.09,
+10:05
+generally known as "human in the loop" or "meaningful human control."
+10:09
+You don't want systems that are not under our control.
+10:13
+It's a line we can't cross.
+10:15
+I think that's correct.
+10:17
+I think that the competition between the West,
+10:20
+and particularly the United States,
+10:22
+and China,
+10:23
+is going to be defining in this area.
+10:26
+And I'll give you some examples.
+10:27
+First, the current government has now put in
+10:30
+essentially reciprocating 145-percent tariffs.
+10:34
+That has huge implications for the supply chain.
+10:37
+We in our industry depend on packaging
+10:41
+and components from China that are boring, if you will,
+10:44
+but incredibly important.
+10:46
+The little packaging and the little glue things and so forth
+10:48
+that are part of the computers.
+10:50
+If China were to deny access to them, that would be a big deal.
+10:54
+We are trying to deny them access to the most advanced chips,
+10:58
+which they are super annoyed about.
+11:00
+Dr. Kissinger asked Craig and I
+11:03
+to do Track II dialogues with the Chinese,
+11:06
+and we’re in conversations with them.
+11:08
+What's the number one issue they raise?
+11:10
+This issue.
+11:11
+Indeed, if you look at DeepSeek, which is really impressive,
+11:14
+they managed to find algorithms that got around the problems
+11:17
+by making them more efficient.
+11:19
+Because China is doing everything open source, open weights,
+11:22
+we immediately got the benefit of their invention
+11:24
+and have adopted into US things.
+11:26
+So we're in a situation now which I think is quite tenuous,
+11:30
+where the US is largely driving, for many, many good reasons,
+11:34
+largely closed models, largely under very good control.
+11:37
+China is likely to be the leader in open source unless something changes.
+11:41
+And open source leads to very rapid proliferation around the world.
+11:45
+This proliferation is dangerous at the cyber level and the bio level.
+11:50
+But let me give you why it's also dangerous in a more significant way,
+11:54
+in a nuclear-threat way.
+11:56
+Dr. Kissinger, who we all worked with very closely,
+11:58
+was one of the architects of mutually assured destruction,
+12:01
+deterrence and so forth.
+12:02
+And what's happening now is you've got a situation
+12:06
+where -- I'll use an example.
+12:07
+It's easier if I explain.
+12:09
+You’re the good guy, and I’m the bad guy, OK?
+12:11
+You're six months ahead of me,
+12:13
+and we're both on the same path for superintelligence.
+12:17
+And you're going to get there, right?
+12:19
+And I'm sure you're going to get there, you're that close.
+12:23
+And I'm six months behind.
+12:25
+Pretty good, right?
+12:26
+Sounds pretty good.
+12:29
+No.
+12:30
+These are network-effect businesses.
+12:32
+And in network-effect businesses,
+12:34
+it is the slope of your improvement that determines everything.
+12:38
+So I'll use OpenAI or Gemini,
+12:40
+they have 1,000 programmers.
+12:42
+They're in the process of creating a million AI software programmers.
+12:46
+What does that do?
+12:47
+First, you don't have to feed them except electricity.
+12:50
+So that's good.
+12:51
+And they don't quit and things like that.
+12:53
+Second, the slope is like this.
+12:56
+Well, as we get closer to superintelligence,
+12:58
+the slope goes like this.
+13:00
+If you get there first, you dastardly person --
+13:04
+BS: You're never going to be able to catch me.
+13:06
+ES: I will not be able to catch you.
+13:08
+And I've given you the tools
+13:09
+to reinvent the world and in particular, destroy me.
+13:12
+That's how my brain, Mr. Evil, is going to think.
+13:15
+So what am I going to do?
+13:18
+The first thing I'm going to do is try to steal all your code.
+13:21
+And you've prevented that because you're good.
+13:23
+And you were good.
+13:24
+So you’re still good, at Google.
+13:26
+Second, then I'm going to infiltrate you with humans.
+13:29
+Well, you've got good protections against that.
+13:31
+You know, we don't have spies.
+13:33
+So what do I do?
+13:35
+I’m going to go in, and I’m going to change your model.
+13:38
+I'm going to modify it.
+13:39
+I'm going to actually screw you up
+13:41
+to get me so I'm one day ahead of you.
+13:43
+And you're so good, I can't do that.
+13:45
+What's my next choice?
+13:47
+Bomb your data center.
+13:50
+Now do you think I’m insane?
+13:53
+These conversations are occurring
+13:55
+around nuclear opponents today in our world.
+14:00
+There are legitimate people saying
+14:02
+the only solution to this problem is preemption.
+14:05
+Now I just told you that you, Mr. Good,
+14:08
+are about to have the keys to control the entire world,
+14:13
+both in terms of economic dominance,
+14:15
+innovation, surveillance,
+14:16
+whatever it is that you care about.
+14:18
+I have to prevent that.
+14:20
+We don't have any language in our society,
+14:24
+the foreign policy people have not thought about this,
+14:27
+and this is coming.
+14:28
+When is it coming?
+14:29
+Probably five years.
+14:31
+We have time.
+14:32
+We have time for this conversation.
+14:34
+And this is really important.
+Open Source AI
+14:36
+BS: Let me push on this a little bit.
+14:37
+So if this is true
+14:39
+and we can end up in this sort of standoff scenario
+14:41
+and the equivalent of mutually-assured destruction,
+14:43
+you've also said that the US should embrace open-source AI
+14:47
+even after China's DeepSeek showed what's possible
+14:49
+with a fraction of the compute.
+14:51
+But doesn't open-sourcing these models,
+14:53
+just hand capabilities to adversaries that will accelerate their own timelines?
+14:57
+ES: This is one of the wickedest, or, we call them wicked hard problems.
+15:02
+Our industry, our science,
+15:04
+everything about the world that we have built
+15:06
+is based on academic research, open source, so forth.
+15:10
+Much of Google's technology was based on open source.
+15:12
+Some of Google's technology is open-source,
+15:14
+some of it is proprietary, perfectly legitimate.
+15:18
+What happens when there's an open-source model
+15:21
+that is really dangerous,
+15:23
+and it gets into the hands of the Osama bin Ladens of the world,
+15:26
+and we know there are more than one, unfortunately.
+15:30
+We don't know.
+15:31
+The consensus in the industry right now
+15:33
+is the open-source models are not quite at the point
+15:38
+of national or global danger.
+15:41
+But you can see a pattern where they might get there.
+15:44
+So a lot will now depend upon the key decisions made in the US and China
+15:48
+and in the companies in both places.
+15:51
+The reason I focus on US and China
+15:53
+is they're the only two countries where people are crazy enough
+15:56
+to spend the billions and billions of dollars
+15:59
+that are required to build this new vision.
+16:01
+Europe, which would love to do it,
+16:03
+doesn't have the capital structure to do it.
+16:05
+Most of the other countries, not even India,
+16:07
+has the capital structure to do it, although they wish to.
+16:10
+Arabs don't have the capital structure to do it,
+16:12
+although they're working on it.
+16:14
+So this fight, this battle, will be the defining battle.
+16:18
+I'm worried about this fight.
+16:19
+Dr. Kissinger talked about the likely path to war with China
+16:24
+was by accident.
+16:27
+And he was a student of World War I.
+16:29
+And of course, [it] started with a small event,
+16:32
+and it escalated over that summer in, I think, 1914.
+16:35
+And then it was this horrific conflagration.
+16:39
+You can imagine a series of steps
+16:41
+along the lines of what I'm talking about
+16:43
+that could lead us to a horrific global outcome.
+16:47
+That's why we have to be paying attention.
+AI Safety
+16:49
+BS: I want to talk about one of the recurring tensions here,
+16:52
+before we move on to the dreams,
+16:54
+is, to sort of moderate these AI systems at scale, right,
+16:57
+there's this weird tension in AI safety
+16:59
+that the solution to preventing "1984"
+17:03
+often sounds a lot like "1984."
+17:06
+So proof of personhood is a hot topic.
+17:07
+Moderating these systems at scale is a hot topic.
+17:10
+How do you view that trade-off?
+17:11
+In trying to prevent dystopia,
+17:13
+let's say preventing non-state actors
+17:15
+from using these models in undesirable ways,
+17:18
+we might accidentally end up building the ultimate surveillance state.
+17:23
+ES: It's really important that we stick to the values
+17:26
+that we have in our society.
+17:29
+I am very, very committed to individual freedom.
+17:31
+It's very easy for a well-intentioned engineer to build a system
+17:36
+which is optimized and restricts your freedom.
+17:39
+So it's very important that human freedom be preserved in this.
+17:44
+A lot of these are not technical issues.
+17:46
+They're really business decisions.
+17:48
+It's certainly possible to build a surveillance state,
+17:50
+but it's also possible to build one that's freeing.
+17:53
+The conundrum that you're describing
+17:54
+is because it's now so easy to operate based on misinformation,
+17:58
+everyone knows what I'm talking about,
+18:00
+that you really do need proof of identity.
+18:02
+But proof of identity does not have to include details.
+18:05
+So, for example, you could have a cryptographic proof
+18:08
+that you are a human being,
+18:09
+and it could actually be true without anything else,
+18:11
+and also not be able to link it to others
+18:14
+using various cryptographic techniques.
+18:17
+BS: So zero-knowledge proofs and other techniques.
+18:19
+ES: Zero-knowledge proofs are the most obvious one.
+18:22
+BS: Alright, let's change gears, shall we, to dreams.
+Dreams
+18:25
+In your book, "Genesis," you strike a cautiously optimistic tone,
+18:29
+which you obviously co-authored with Henry Kissinger.
+18:32
+When you look ahead to the future, what should we all be excited about?
+18:35
+ES: Well, I'm of the age
+18:37
+where some of my friends are getting really dread diseases.
+18:41
+Can we fix that now?
+18:43
+Can we just eliminate all of those?
+18:45
+Why can't we just uptake these
+18:47
+and right now, eradicate all of these diseases?
+18:51
+That's a pretty good goal.
+18:54
+I'm aware of one nonprofit that's trying to identify,
+18:57
+in the next two years,
+18:59
+all human druggable targets and release it to the scientists.
+19:02
+If you know the druggable targets,
+19:04
+then the drug industry can begin to work on things.
+19:07
+I have another company I'm associated with
+19:09
+which has figured out a way, allegedly, it's a startup,
+19:12
+to reduce the cost of stage-3 trials by an order of magnitude.
+19:16
+As you know, those are the things
+19:18
+that ultimately drive the cost structure of drugs.
+19:20
+That's an example.
+19:21
+I'd like to know where dark energy is,
+19:24
+and I'd like to find it.
+19:26
+I'm sure that there is an enormous amount of physics in dark energy, dark matter.
+19:32
+Think about the revolution in material science.
+19:35
+Infinitely more powerful transportation,
+19:38
+infinitely more powerful science and so forth.
+19:42
+I'll give you another example.
+19:43
+Why do we not have every human being on the planet
+19:49
+have their own tutor in their own language
+19:53
+to help them learn something new?
+19:55
+Starting with kindergarten.
+19:56
+It's obvious.
+19:58
+Why have we not built it?
+19:59
+The answer, the only possible answer
+20:01
+is there must not be a good economic argument.
+20:03
+The technology works.
+20:05
+Teach them in their language, gamify the learning,
+20:08
+bring people to their best natural lengths.
+20:10
+Another example.
+20:11
+The vast majority of health care in the world
+20:13
+is either absent
+20:15
+or delivered by the equivalent of nurse practitioners
+20:17
+and very, very sort of stressed local village doctors.
+20:20
+Why do they not have the doctor assistant that helps them in their language,
+20:25
+treat whatever with, again, perfect healthcare?
+20:27
+I can just go on.
+20:29
+There are lots and lots of issues with the digital world.
+20:35
+It feels like that we're all in our own ships in the ocean,
+20:39
+and we're not talking to each other.
+20:40
+In our hunger for connectivity and connection,
+20:44
+these tools make us lonelier.
+20:47
+We've got to fix that, right?
+20:48
+But these are fixable problems.
+20:50
+They don't require new physics.
+20:52
+They don't require new discoveries, we just have to decide.
+20:55
+So when I look at this future,
+20:56
+I want to be clear that the arrival of this intelligence,
+21:01
+both at the AI level, the AGI,
+21:03
+which is general intelligence,
+21:05
+and then superintelligence,
+21:07
+is the most important thing that's going to happen in about 500 years,
+21:11
+maybe 1,000 years in human society.
+21:13
+And it's happening in our lifetime.
+21:15
+So don't screw it up.
+21:18
+BS: Let's say we don't.
+21:20
+(Applause)
+Radical Abundance
+21:23
+Let's say we don't screw it up.
+21:25
+Let's say we get into this world of radical abundance.
+21:28
+Let's say we end up in this place,
+21:29
+and we hit that point of recursive self-improvement.
+21:33
+AI systems take on a vast majority of economically productive tasks.
+21:37
+In your mind, what are humans going to do in this future?
+21:40
+Are we all sipping piña coladas on the beach, engaging in hobbies?
+21:43
+ES: You tech liberal, you.
+21:45
+You must be in favor of UBI.
+21:48
+BS: No, no, no.
+21:49
+ES: Look, humans are unchanged
+21:52
+in the midst of this incredible discovery.
+21:55
+Do you really think that we're going to get rid of lawyers?
+21:57
+No, they're just going to have more sophisticated lawsuits.
+22:01
+Do you really think we're going to get rid of politicians?
+22:03
+No, they'll just have more platforms to mislead you.
+22:06
+Sorry.
+22:07
+I mean, I can just go on and on and on.
+22:10
+The key thing to understand about this new economics
+22:13
+is that we collectively, as a society, are not having enough humans.
+22:18
+Look at the reproduction rate in Asia,
+22:21
+is essentially 1.0 for two parents.
+22:23
+This is not good, right?
+22:25
+So for the rest of our lives,
+22:27
+the key problem is going to get the people who are productive.
+22:30
+That is, in their productive period of lives,
+22:33
+more productive to support old people like me, right,
+22:37
+who will be bitching that we want more stuff from the younger people.
+22:40
+That's how it's going to work.
+22:42
+These tools will radically increase that productivity.
+22:45
+There's a study that says that we will,
+22:47
+under this set of assumptions around agentic AI and discovery
+22:51
+and the scale that I'm describing,
+22:52
+there's a lot of assumptions
+22:54
+that you'll end up
+22:56
+with something like 30-percent increase in productivity per year.
+23:00
+Having now talked to a bunch of economists,
+23:02
+they have no models
+23:04
+for what that kind of increase in productivity looks like.
+23:07
+We just have never seen it.
+23:09
+It didn't occur in any rise of a democracy or a kingdom in our history.
+23:15
+It's unbelievable what's going to happen.
+23:18
+Hopefully we will get it in the right direction.
+23:22
+BS: It is truly unbelievable.
+23:23
+Let's bring this home, Eric.
+23:25
+You've navigated decades of technological change.
+23:27
+For everyone that's navigating this AI transition,
+23:30
+technologists, leaders, citizens
+23:32
+that are feeling a mix of excitement and anxiety,
+23:35
+what is that single piece of wisdom
+23:38
+or advice you'd like to offer
+23:40
+for navigating this insane moment that we're living through today?
+23:43
+ES: So one thing to remember
+23:45
+is that this is a marathon, not a sprint.
+23:49
+One year I decided to do a 100-mile bike race,
+23:52
+which was a mistake.
+23:54
+And the idea was, I learned about spin rate.
+23:57
+Every day, you get up, and you just keep going.
+23:59
+You know, from our work together at Google,
+24:02
+that when you’re growing at the rate that we’re growing,
+24:06
+you get so much done in a year,
+24:09
+you forget how far you went.
+24:12
+Humans can't understand that.
+24:14
+And we're in this situation
+24:15
+where the exponential is moving like this.
+24:18
+As this stuff happens quicker,
+24:20
+you will forget what was true two years ago or three years ago.
+24:25
+That's the key thing.
+24:27
+So my advice to you all is ride the wave, but ride it every day.
+24:32
+Don't view it as episodic and something you can end,
+24:34
+but understand it and build on it.
+24:36
+Each and every one of you has a reason to use this technology.
+24:41
+If you're an artist, a teacher, a physician,
+24:44
+a business person, a technical person.
+24:47
+If you're not using this technology,
+24:49
+you're not going to be relevant compared to your peer groups
+24:52
+and your competitors
+24:54
+and the people who want to be successful.
+24:56
+Adopt it, and adopt it fast.
+24:58
+I have been shocked at how fast these systems --
+25:01
+as an aside, my background is enterprise software,
+25:06
+and nowadays there's a model Protocol from Anthropic.
+25:10
+You can actually connect the model directly into the databases
+25:13
+without any of the connectors.
+25:15
+I know this sounds nerdy.
+25:16
+There's a whole industry there that goes away
+25:18
+because you have all this flexibility now.
+25:20
+You can just say what you want, and it just produces it.
+25:23
+That's an example of a real change in business.
+25:26
+There are so many of these things coming every day.
+25:29
+BS: Ladies and gentlemen, Eric Schmidt.
+25:31
+ES: Thank you very much.
+25:32
+(Applause)
+
